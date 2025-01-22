@@ -6,10 +6,6 @@ This repository contains a collection of exercises focused on stack data structu
 
 - [Introduction](#introduction)
 - [Exercises](#exercises)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

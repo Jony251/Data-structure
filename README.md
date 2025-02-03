@@ -60,11 +60,13 @@ To run these exercises, ensure you have the following installed:
    * To compile the file, type: javac FileName.java
    * To execute the program, type: java FileName
      (Replace "FileName" with the actual Java file name.)
-      
+
+## Contributing
 3. **Contributing**:
    Contributions are welcome!
    If you have suggestions for improvements or additional exercises, please fork the repository and submit a pull request.
    Ensure that your contributions align with the repository's focus on stack-related exercises.
 
+## License
 4. **License**:
    This project is licensed under the MIT License. Feel free to ask!
